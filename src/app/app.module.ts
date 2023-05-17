@@ -3,16 +3,15 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ButtonParceirosComponent } from './components/button-parceiros/button-parceiros.component';
+import { ButtonSubscribeComponent } from './components/button-subscribe/button-subscribe.component';
+import { ButtonLoginComponent } from './components/button-login/button-login.component';
+import { InfoPageComponent } from './components/info-page/info-page.component';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  declarations: [AppComponent, ButtonParceirosComponent, ButtonSubscribeComponent, ButtonLoginComponent, InfoPageComponent],
+  imports: [BrowserModule, AppRoutingModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

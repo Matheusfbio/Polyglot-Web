@@ -1,0 +1,25 @@
+
+ .toolbar {
+    display: flex;
+    margin: 0%;
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+    font-weight: 600;
+    /* padding: 5px; */
+    align-items: baseline;
+  }
+
+  .btn-navigation {
+    /* background-color: rgb(51, 255, 0); */
+    display: flex;
+    justify-content: space-between;
+    width: 24%;
+    padding: 10px;
+  }
+
+  /* body {
+    background-color: black;
+  } */
+
+
