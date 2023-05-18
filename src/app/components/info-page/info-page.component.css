@@ -14,7 +14,7 @@
   font-family: 'Times New Roman', Times, serif;
   font-size: 26px;
   color: white;
-  text-align: center;
+  text-align: start;
   justify-content: center;
   align-items: center;
   width: 240px;
@@ -24,20 +24,19 @@
 
 }
 
-.Plus-info {
+/* .Plus-info {
   display: flex;
-  /* background-color: rgb(110, 252, 8); */
   font-family: 'Times New Roman', Times, serif;
   font-size: 2.5em;
   color: white;
-  text-align: center;
+  text-align: start;
   justify-content: center;
   align-items: center;
   width: 240px;
   margin: 30px;
   margin-top: 327px;
   padding: 5px;
-}
+} */
 
 .position {
   position: absolute;
@@ -47,17 +46,68 @@
   height: 0px;
 
 }
-.position-plus-info {
-  position: absolute;
-  left: 200px;
-  top: 70px;
-  width: 400px;
-  height: 0px;
 
+.position-plus-info {
+  /* color */
+  /* background-color: greenyellow; */
+  position: absolute;
+  color: white;
+  /* letter */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  text-align: start;
+  /* direction */
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  left: 200px;
+  top: 380px;
+  width: 35%;
+  height: 100px;
 }
 
 .img-notebook {
   width: 100%;
   height: auto;
   /* height: 447px; */
+}
+
+#seta {
+  position: absolute;
+  margin: 5px;
+  padding: 4px;
+  box-shadow: 2px -2px 0 1px #ae2a2a inset;
+  border: solid transparent;
+  border-width: 0 0 2px 2px;
+  transform: rotate(-135deg);
+}
+
+.spacing-word {
+  padding-left: 30px;
+}
+
+.position-button {
+  background-color: #F64348;
+  border: 2px solid #F64348;
+  border-radius: 12px;
+  border-color: F64348;
+  color: white;
+  display: flex;
+  position: absolute;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  left: 200px;
+  top: 450px;
+  width: 350px;
+  height: 40px;
+
+}
+
+button:hover {
+  background-color: rgb(93, 130, 39);
+  border: 2px solid rgb(93, 130, 39);
 }
