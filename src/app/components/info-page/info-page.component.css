@@ -111,3 +111,9 @@ button:hover {
   background-color: rgb(93, 130, 39);
   border: 2px solid rgb(93, 130, 39);
 }
+
+.video-info {
+  display: flex;
+  margin: 60px;
+  justify-content: center;
+}
