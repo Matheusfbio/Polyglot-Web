@@ -1,14 +1,13 @@
   <div class="toolbar">
-    <div>
-      <h1>Logo</h1>
-    </div>
-    <div class="btn-navigation">
-      <app-button-parceiros></app-button-parceiros>
-      <app-button-login></app-button-login>
-      <app-button-subscribe></app-button-subscribe>
-    </div>
+    <app-navbar></app-navbar>
+  </div>
+  <div class="btn-navigation">
+    <router-outlet></router-outlet>
   </div>
   <div>
     <app-info-page></app-info-page>
+  </div>
+  <div>
+    <app-about-support></app-about-support>
   </div>
 
