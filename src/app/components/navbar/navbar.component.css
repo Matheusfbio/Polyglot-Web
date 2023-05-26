@@ -1,0 +1,45 @@
+.nav-button-business {
+  border: 2px solid black;
+  color: black;
+  border-radius: 12px;
+  border-color: black;
+  padding: 10px;
+}
+
+.nav-button-login {
+  border: 2px solid black;
+  color: black;
+  border-radius: 12px;
+  border-color: black;
+  padding: 10px;
+}
+
+.nav-button-subscribe {
+  border: 2px solid black;
+  color: black;
+  border-radius: 12px;
+  border-color: black;
+  padding: 10px;
+}
+
+.nav-home {
+  border: 2px solid black;
+  color: black;
+  border-radius: 12px;
+  border-color: black;
+  padding: 10px;
+  /* justify-content: flex-start; */
+}
+
+.nav-container {
+  /* background-color: rgb(63, 63, 228); */
+  display: flex;
+  justify-content:space-between;
+  color: black;
+  font-weight: 600;
+  padding: 12px;
+
+}
+
+
+
