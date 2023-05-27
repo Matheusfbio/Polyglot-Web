@@ -1,34 +1,22 @@
-.nav-button-business {
+.nav-button-subscribe, .nav-button-login, .nav-button-business {
+  display: flex;
   border: 2px solid black;
   color: black;
   border-radius: 12px;
   border-color: black;
   padding: 10px;
-}
 
-.nav-button-login {
-  border: 2px solid black;
-  color: black;
-  border-radius: 12px;
-  border-color: black;
-  padding: 10px;
-}
-
-.nav-button-subscribe {
-  border: 2px solid black;
-  color: black;
-  border-radius: 12px;
-  border-color: black;
-  padding: 10px;
 }
 
 .nav-home {
+  display: flex;
   border: 2px solid black;
   color: black;
   border-radius: 12px;
   border-color: black;
   padding: 10px;
-  /* justify-content: flex-start; */
+  align-items: start;
+  justify-content: start;
 }
 
 .nav-container {
@@ -41,5 +29,11 @@
 
 }
 
+.button-container {
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  width: 260px;
+  /* padding: 13px; */
 
-
+}

@@ -1,1 +1,52 @@
+.form-container {
+  width: 423%;
+  /* background-color: red; */
+  /* border: 2px solid black; */
+}
+
+.form-group {
+  /* background-color: yellowgreen; */
+  /* width: 100%; */
+  display: flexbox;
+  flex-direction: column;
+  font-size: 20px;
+
+
+}
+
+.Text-up-video {
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 26px;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.form-direction {
+  /* background-color: red; */
+  display: flex;
+  padding: 2px;
+  width: 280%;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.form-control {
+    /* background-color: blue; */
+    width: 300%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    align-self: center;
+
+}
+
+.btn-primary {
+  width: 50%;
+}
 

@@ -3,7 +3,6 @@ import { RouterModule, Routes } from '@angular/router';
 import { ButtonLoginComponent } from './components/button-login/button-login.component';
 import { ButtonParceirosComponent } from './components/button-parceiros/button-parceiros.component';
 import { ButtonSubscribeComponent } from './components/button-subscribe/button-subscribe.component';
-import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [

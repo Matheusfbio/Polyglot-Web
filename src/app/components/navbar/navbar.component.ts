@@ -6,12 +6,4 @@ import { Router } from '@angular/router';
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.css'],
 })
-export class NavbarComponent {
-  constructor(private router: Router) {}
-
-  ngOnInit(): void {}
-
-  OnHomeClick() {
-    this.router.navigate(['']);
-  }
-}
+export class NavbarComponent {}
