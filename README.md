@@ -18,7 +18,7 @@ The idea of the Website is:
 
 _"Share knowledge in the form of Website, providing a simple way to learn"._
 
-PS: Site foi apenas o contexto escolhido por mim para este projeto, por enquanto esta em um estagio inicial, Mas vou vincular a um CMS  que esta sendo iniciado tambem.
+PS: Site was created in Angular and was just the context I chose for this project, for now it is in an initial stage, but I will link to a CMS that is being started too.
 
 ## Why?
 
