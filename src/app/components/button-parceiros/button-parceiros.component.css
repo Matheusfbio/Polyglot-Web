@@ -1,7 +1,5 @@
 .form-container {
   width: 423%;
-  /* background-color: red; */
-  /* border: 2px solid black; */
 }
 
 .form-group {
@@ -10,22 +8,28 @@
   display: flexbox;
   flex-direction: column;
   font-size: 20px;
-
-
 }
 
-.Text-up-video {
+.form-group-login {
+  /* background-color: yellowgreen; */
+  /* width: 100%; */
+  display: flexbox;
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.Text-description {
   display: flex;
+  /* background-color: red; */
   font-family: 'Times New Roman', Times, serif;
   font-size: 26px;
   color: black;
   justify-content: center;
-  align-items: center;
-  width: 100%;
+  width: 100% auto;
+  padding-bottom: 12px;
 }
 
 .form-direction {
-  /* background-color: red; */
   display: flex;
   padding: 2px;
   width: 280%;
@@ -49,3 +53,4 @@
 .btn-primary {
   width: 50%;
 }
+

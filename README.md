@@ -1,15 +1,9 @@
-# Resumo do Projeto SPA de Cursos de ReactJs com o uso Framework AngularJS
+# Polyglot Web <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+ ![image](https://github.com/Matheusfbio/SPA-Polyglot-Web/assets/83082876/75e4c3fa-784e-4bc5-b52d-bd325c860b68)
+ ![image](https://github.com/Matheusfbio/SPA-Polyglot-Web/assets/83082876/84bc89a1-367d-426e-bd68-b6e16b463982)
+ 
 
-um resumo com base em projeto SPA de cursos de ReactJs usando framework angular js
+![edit](/docs/gifs/edit.gif.mp4)
 
-Este projeto tem como objetivo fornecer uma plataforma para o ensino de ReactJS por meio de uma Single Page Application (SPA) de cursos. Utilizando o framework AngularJS, o projeto organiza e gerencia o código, rotas e estados da aplicação. o que torna a aplicação mais modular e escalável.
 
-Com a aplicação, os usuários podem visualizar cursos disponíveis, se inscrever, acompanhar o progresso do curso e utilizar recursos de comunidade, como fórum de discussão e sistema de avaliação de cursos.
-
-Em resumo, o projeto oferece uma ampla variedade de recursos de ensino de ReactJS, gerenciados pelo AngularJS, além de recursos de comunidade para ajudar os usuários a se conectarem e colaborarem uns com os outros.
-
-Este projeto tem como objetivo fornecer uma plataforma para o ensino de ReactJS por meio de uma Single Page Application (SPA) de cursos. Utilizando o framework AngularJS, o projeto organiza e gerencia o código, rotas e estados da aplicação. Além disso, o ReactJS é utilizado para criar componentes reutilizáveis, o que torna a aplicação mais modular e escalável.
-
-Com a aplicação, os usuários podem visualizar cursos disponíveis, se inscrever, acompanhar o progresso do curso e utilizar recursos de comunidade, como fórum de discussão e sistema de avaliação de cursos.
-
-Em resumo, o projeto oferece uma ampla variedade de recursos de ensino de ReactJS, gerenciados pelo AngularJS, além de recursos de comunidade para ajudar os usuários a se conectarem e colaborarem uns com os outros.
