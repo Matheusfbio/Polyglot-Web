@@ -1,29 +1,7 @@
-/* .Container-info {
-  display: flex;
-  width: 100%;
-  background-color: blue;
-  color: white;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-} */
 
-/* .Plus-info {
-  display: flex;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 2.5em;
-  color: white;
-  text-align: start;
-  justify-content: center;
-  align-items: center;
-  width: 240px;
-  margin: 30px;
-  margin-top: 327px;
-  padding: 5px;
-} */
 .Text-info {
   display: flex;
-  /* background-color: rgb(110, 252, 8); */
+  background-color: black;
   font-family: 'Times New Roman', Times, serif;
   font-size: 26px;
   color: black;
@@ -46,15 +24,11 @@
 }
 
 .position-plus-info {
-  /* color */
-  /* background-color: greenyellow; */
   position: absolute;
   color: black;
-  /* letter */
   font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   text-align: start;
-  /* direction */
   justify-content: center;
   align-items: center;
   margin: 30px;
@@ -64,19 +38,11 @@
   height: 100px;
 }
 
-.img-notebook {
-  width: 100%;
-  /* background-color: #ae2a2a; */
-  /* text-align: center; */
-  /* height: auto; */
-
-}
-
 #seta {
   position: absolute;
-  margin: 5px;
+  margin: 4px;
   padding: 4px;
-  box-shadow: 2px -2px 0 1px #ae2a2a inset;
+  box-shadow: 2px -2px 0 1px black inset;
   border: solid transparent;
   border-width: 0 0 2px 2px;
   transform: rotate(-135deg);
@@ -113,20 +79,36 @@ button:hover {
 }
 
 .video-info {
+  background-color: blue;
   display: flex;
-  margin: 60px;
+  margin: 0 auto;
   justify-content: center;
 }
 
 .Text-up-video {
   display: flex;
-  /* background-color: rgb(110, 252, 8); */
   font-family: 'Times New Roman', Times, serif;
   font-size: 26px;
   color: black;
-  text-align: start;
   justify-content: center;
   align-items: center;
+  padding: 46px;
+  margin-top: -90px;
+  width: 94%;
+}
 
+section {
+  width: 413%;
 
+}
+
+iframe {
+  display: flex;
+  width:40%;
+  height:315px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
 }
