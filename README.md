@@ -28,7 +28,7 @@ For now this project is in an initial phase, but over time I will improve this p
 
 2 - The website is not responsive at the moment due to the time that has to be dedicated and at the moment the functionalities themselves are being prioritized
 
-### Installing
+## Installing
 
 **Cloning the Repository**
 
@@ -49,6 +49,18 @@ _or_
 ```
 $ npm install
 ```
+
+## Run
+```
+$ yarn start
+```
+
+_or_
+
+```
+$ npm start 
+```
+
 ## Contributing
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
